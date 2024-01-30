@@ -1,2 +1,2 @@
-# Git.test
+#.ignore file
 Testing Git
